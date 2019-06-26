@@ -6,3 +6,5 @@ and then computer's turn
  This Game is of 5 round
  
  Play and see Who WINS
+
+Note: It work on Python 3.6 or above, And on teminal only
