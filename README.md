@@ -8,3 +8,5 @@ and then computer's turn
  Play and see Who WINS
 
 Note: It work on Python 3.6 or above, And on teminal only
+
+Made with 💖 By Anmol Mishra
